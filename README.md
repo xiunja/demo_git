@@ -4,7 +4,9 @@
 
 Я провожу демо по гиту для курса **"Цифровая архвация"**.
 
-[Скриншот 1.](screenshots/screenshot_git_1.jpg)
+[Скриншот 1.](screenshots/screenshot_git_1.jpg) 
+<image src="screenshots/screenshot_git_1.jpg" alt="Скриншот 1.">
+
 
 ## Задачи: чему нужно научиться
 
